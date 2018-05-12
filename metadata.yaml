@@ -18,6 +18,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20431#The-Tale-of-BeowulfSometime-King-of-the-Folk-of-the-Weder-Geats
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2007-01-23'
 gutenberg_type: Text
